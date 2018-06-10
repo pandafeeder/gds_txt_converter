@@ -1,6 +1,6 @@
 # gds_txt_converter
 
-##BUILD: 
+## BUILD: 
 need cmake installed
 recommand that you create a build directory and building there instead of source dir
 
@@ -12,7 +12,7 @@ recommand that you create a build directory and building there instead of source
 after above steps, binary gds2txt is generated under build dir
 
 
-##USAGE:
+## USAGE:
 
 ```
 Usage:
