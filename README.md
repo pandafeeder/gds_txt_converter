@@ -1,7 +1,7 @@
 # gds_txt_converter
 
 ## BUILD: 
-need cmake installed
+need cmake installed.
 recommand that you create a build directory and building there instead of source dir
 
 1. mkdir build
