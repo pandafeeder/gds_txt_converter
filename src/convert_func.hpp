@@ -26,7 +26,7 @@ std::string chars_to_string(dataIter start, dataIter end);
 double _to_real8(dataIter start, dataIter end);
 
 inline
-void _check_data(dataIter start, dataIter end, u_int8_t size, const std::string& str)
+void _check_data(dataIter start, dataIter end, uint8_t size, const std::string& str)
 {
   if (std::distance(start, end) % size != 0)
     throw std::runtime_error(str);
